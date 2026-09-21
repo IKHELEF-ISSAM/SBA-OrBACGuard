@@ -16,28 +16,6 @@ This project proposes a policy-driven approach for transforming **5G access-cont
 - Integration with a containerized **Open5GS** deployment
 - Support for the **indirect SBA communication model**
 
-## Architecture
-
-```text
-5G Access-Control Policies
-            |
-            v
-    Policy Transformation
-            |
-            v
-       OrBAC Policies
-            |
-            v
-      SBA-OrBACGuard
-            |
-            v
-     Authorization Check
-        /           \
-       /             \
-    ALLOW           DENY
-      |               |
-      v               v
-SBA Operation       Blocked
 ## Experimental Setup
 
 SBA-OrBACGuard is evaluated in a containerized **Open5GS 5G Core Network**.
