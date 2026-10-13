@@ -221,7 +221,7 @@
 import java.util.*;
 
 // Exemple : vÃƒÂ©rifier si le sujet est "Registered" dans le fichier
-String filePath = "C:\\Users\\issam\\Desktop\\Registered.txt";
+String filePath = "Registered.txt";
 
 BufferedReader br = null;
 boolean found = false;
@@ -261,7 +261,7 @@ result = found;
 import java.util.*;&#13;
 &#13;
 // Exemple : vÃƒÂ©rifier si le sujet est "Registered" dans le fichier&#13;
-String filePath = "C:\\Users\\issam\\Desktop\\Registered.txt";&#13;
+String filePath = "Registered.txt";&#13;
 &#13;
 BufferedReader br = null;&#13;
 boolean found = false;&#13;
@@ -300,8 +300,8 @@ result = found;&#13;
 <definition organization="Slice">import java.io.*;&#13;
 &#13;
 // Chemins vers les fichiers&#13;
-fileReg   = "C:\\Users\\issam\\Desktop\\Registered.txt";&#13;
-fileDereg = "C:\\Users\\issam\\Desktop\\Deregistration_Requests.txt";&#13;
+fileReg   = "Registered.txt";&#13;
+fileDereg = "Deregistration_Requests.txt";&#13;
 &#13;
 found = false;&#13;
 &#13;
@@ -363,7 +363,7 @@ import java.text.SimpleDateFormat;&#13;
 import java.util.*;&#13;
 &#13;
 // Chemin vers le fichier&#13;
-fileReg = "C:\\Users\\issam\\Desktop\\Access_Token_DB.txt";&#13;
+fileReg = "Access_Token_DB.txt";&#13;
 &#13;
 found = false;&#13;
 &#13;
