@@ -2,4 +2,4 @@ cff-version: 1.2.0
 message: "Please cite the associated research publication when its details are available."
 title: "SBA-OrBACGuard: An OrBAC-Based Policy Enforcement Framework for Securing 5G Service-Based Architectures"
 type: software
-repository-code: "https://github.com/IKHELEF-ISSAM/SBA-OrBACGuard"
+
