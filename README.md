@@ -1,10 +1,9 @@
 # SBA-OrBACGuard
 
-**Research artifact | Policy-driven access control for the 5G Service-Based Architecture**
+**Research artifact | SBA-OrBACGuard: An OrBAC-Based Policy Enforcement Framework for Securing 5G Service-Based Architectures**
 
 SBA-OrBACGuard explores the use of Organization-Based Access Control (OrBAC) to represent and evaluate authorization decisions for interactions between 5G Network Functions (NFs) in the Service-Based Architecture (SBA). The repository includes a Java prototype, an OrBAC policy export, example trace-derived data, and screenshots from an experimental setup.
 
-> **Artifact status:** This is a reorganized research snapshot, not a turnkey reproducible Open5GS deployment. The original archive does not include the external `orbac` Java dependency, the referenced `PCAP_Attack.txt` input, or Open5GS/Docker configuration. No experimental metrics or results have been fabricated.
 
 ## Research motivation
 
@@ -46,7 +45,4 @@ The supplied figures are illustrative screenshots, not independently verified be
 
 If using this artifact, cite the associated paper when its bibliographic details are available. The original repository did not provide a formal license or complete paper metadata; do not assume a redistribution license beyond the permissions granted by the rights holder.
 
-## Provenance
 
-Reorganized from the user-provided `SBA-OrBACGuard-main.zip`; the original README is retained in `docs/ORIGINAL_README.md`. Source code and experimental artifacts are preserved byte-for-byte, except the XML file's path/extension.
-"# SBA-OrBACGuard" 
