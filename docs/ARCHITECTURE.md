@@ -26,12 +26,3 @@ NF-to-NF authorization in the 5G SBA requires rules reflecting operations, roles
  Authorization / attack-analysis workflow
 ```
 
-This diagram is conceptual; do not interpret it as evidence of inline interception or complete live enforcement in this archive. The original README describes an Open5GS experiment, but deployment assets are absent.
-
-## Conference presentation sequence
-1. Motivation and 5G SBA threat model.
-2. Policy model and mapping of 5G operations to OrBAC concepts.
-3. Prototype processing pipeline and assumptions.
-4. Experimental environment (provide actual Open5GS versions and topology).
-5. Evaluation scenarios, baseline, metrics and observed results (to be supplied).
-6. Limitations, reproducibility and future work.
