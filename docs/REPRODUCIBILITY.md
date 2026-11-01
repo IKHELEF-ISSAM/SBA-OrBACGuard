@@ -36,5 +36,4 @@ On Windows replace the Java classpath separator `:` with `;`. The command cannot
 - Source compilation and runtime behavior have **not** been validated against the missing OrBAC library.
 - Screenshots should not be treated as quantified measurements.
 
-## Information needed for camera-ready reproducibility
-Provide exact Open5GS/Docker versions and topology, the OrBAC library and license, a sanitized trace or generator, exact build/run commands, scenarios, measurement scripts, raw measurements, seeds and hardware specifications.
+
