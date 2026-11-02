@@ -31,9 +31,6 @@ java -cp ../classes:/path/to/orbac.jar OrBacPolicy_Open5GS
 
 On Windows replace the Java classpath separator `:` with `;`. The command cannot run successfully without the missing dependency and trace. Other required resources may be discovered by reviewing the Java implementation.
 
-## Verification boundaries
-- XML parsing can be checked independently using Python's standard library.
-- Source compilation and runtime behavior have **not** been validated against the missing OrBAC library.
-- Screenshots should not be treated as quantified measurements.
+
 
 
