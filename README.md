@@ -18,7 +18,7 @@ The 5G SBA enables NF-to-NF service interactions. Fine-grained authorization may
 | `experiments/data/` | Example registration, deregistration and token data |
 | `experiments/figures/` | Original screenshots |
 | `docs/` | Architecture, reproducibility, limitations and original README |
-| `deployment/` | Deployment prerequisites and missing components |
+
 
 ## Prototype workflow
 
