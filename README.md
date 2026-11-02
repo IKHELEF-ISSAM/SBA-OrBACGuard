@@ -39,10 +39,9 @@ The Java file defines `public class OrBacPolicy_Open5GS` but is stored as `SCP_M
 
 ## Figures
 
-The supplied figures are illustrative screenshots, not independently verified benchmark results. See `experiments/figures/`.
+The supplied figures are illustrative screenshots. See `experiments/figures/`.
 
 ## Citation and license
 
-If using this artifact, cite the associated paper when its bibliographic details are available. The original repository did not provide a formal license or complete paper metadata; do not assume a redistribution license beyond the permissions granted by the rights holder.
-
+If using this artifact, cite the associated paper when its bibliographic details are available. 
 
